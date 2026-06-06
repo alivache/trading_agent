@@ -18,11 +18,27 @@ Acest repository conține un set de scripturi Python pentru backtesting și stra
 
 1. Configurați mediul Python.
 2. Instalați dependențele necesare.
-3. Rulați scripturile de backtest sau agentul principal:
+3. Rulați scripturile de backtest sau agentul principal.
+
+### `trading_agent.py`
+
+Folosirea agentului principal:
 
 ```powershell
 python trading_agent.py
 ```
+
+Asigurați-vă că setările din `.env` sau alte fișiere de configurare sunt corecte înainte de rulare.
+
+### `dashboard.py`
+
+Deschideți interfața de monitorizare:
+
+```powershell
+python dashboard.py
+```
+
+Acest script ar trebui să pornească o fereastră sau un dashboard pentru vizualizarea datelor de trading și a rezultatelor backtest-ului.
 
 ## Notă
 

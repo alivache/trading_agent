@@ -1,0 +1,486 @@
+{
+  "tranzactii": [
+    {
+      "simbol": "GOOGL",
+      "tip": "open_long",
+      "pret": 405.13128662109375,
+      "cantitate": 6,
+      "profit": null,
+      "motiv": null,
+      "ora": 17,
+      "data": "2026-05-18T17:53:20.629603"
+    },
+    {
+      "simbol": "MSFT",
+      "tip": "open_long",
+      "pret": 419.8800048828125,
+      "cantitate": 5,
+      "profit": null,
+      "motiv": null,
+      "ora": 17,
+      "data": "2026-05-18T17:53:20.962353"
+    },
+    {
+      "simbol": "META",
+      "tip": "open_short",
+      "pret": 608.3298950195312,
+      "cantitate": 4,
+      "profit": null,
+      "motiv": null,
+      "ora": 18,
+      "data": "2026-05-18T18:34:35.276311"
+    },
+    {
+      "simbol": "META",
+      "tip": "close_short",
+      "pret": 608.6077880859375,
+      "cantitate": 4,
+      "profit": -1.111572265625,
+      "motiv": "EMA CROSSOVER BULLISH (0.05%)",
+      "ora": 18,
+      "data": "2026-05-18T18:39:41.444098"
+    },
+    {
+      "simbol": "META",
+      "tip": "open_short",
+      "pret": 608.6099853515625,
+      "cantitate": 4,
+      "profit": null,
+      "motiv": null,
+      "ora": 18,
+      "data": "2026-05-18T18:39:48.075766"
+    },
+    {
+      "simbol": "META",
+      "tip": "close_short",
+      "pret": 607.9099731445312,
+      "cantitate": 4,
+      "profit": 2.800048828125,
+      "motiv": "EMA CROSSOVER BULLISH (-0.12%)",
+      "ora": 18,
+      "data": "2026-05-18T18:44:54.941015"
+    },
+    {
+      "simbol": "META",
+      "tip": "open_short",
+      "pret": 608.4650268554688,
+      "cantitate": 4,
+      "profit": null,
+      "motiv": null,
+      "ora": 19,
+      "data": "2026-05-18T19:10:59.121901"
+    },
+    {
+      "simbol": "META",
+      "tip": "close_short",
+      "pret": 609.52001953125,
+      "cantitate": 4,
+      "profit": -4.219970703125,
+      "motiv": "EMA CROSSOVER BULLISH (0.21%)",
+      "ora": 19,
+      "data": "2026-05-18T19:16:04.873644"
+    },
+    {
+      "simbol": "META",
+      "tip": "open_short",
+      "pret": 609.77001953125,
+      "cantitate": 4,
+      "profit": null,
+      "motiv": null,
+      "ora": 19,
+      "data": "2026-05-18T19:16:10.911100"
+    },
+    {
+      "simbol": "META",
+      "tip": "close_short",
+      "pret": 610.3599853515625,
+      "cantitate": 4,
+      "profit": -2.35986328125,
+      "motiv": "EMA CROSSOVER BULLISH (0.10%)",
+      "ora": 19,
+      "data": "2026-05-18T19:21:16.786090"
+    },
+    {
+      "simbol": "META",
+      "tip": "open_short",
+      "pret": 610.3001098632812,
+      "cantitate": 4,
+      "profit": null,
+      "motiv": null,
+      "ora": 19,
+      "data": "2026-05-18T19:21:24.514389"
+    },
+    {
+      "simbol": "GOOGL",
+      "tip": "open_long",
+      "pret": 401.79998779296875,
+      "cantitate": 6,
+      "profit": null,
+      "motiv": null,
+      "ora": 19,
+      "data": "2026-05-18T19:23:28.873996"
+    },
+    {
+      "simbol": "MSFT",
+      "tip": "open_long",
+      "pret": 419.0299987792969,
+      "cantitate": 5,
+      "profit": null,
+      "motiv": null,
+      "ora": 19,
+      "data": "2026-05-18T19:23:29.238130"
+    },
+    {
+      "simbol": "GOOGL",
+      "tip": "open_long",
+      "pret": 401.4100036621094,
+      "cantitate": 6,
+      "profit": null,
+      "motiv": null,
+      "ora": 19,
+      "data": "2026-05-18T19:25:34.835179"
+    },
+    {
+      "simbol": "META",
+      "tip": "open_short",
+      "pret": 609.4099731445312,
+      "cantitate": 4,
+      "profit": null,
+      "motiv": null,
+      "ora": 19,
+      "data": "2026-05-18T19:25:35.278540"
+    },
+    {
+      "simbol": "MSFT",
+      "tip": "open_long",
+      "pret": 418.70001220703125,
+      "cantitate": 5,
+      "profit": null,
+      "motiv": null,
+      "ora": 19,
+      "data": "2026-05-18T19:25:35.653513"
+    },
+    {
+      "simbol": "META",
+      "tip": "close_short",
+      "pret": 607.7098999023438,
+      "cantitate": 4,
+      "profit": 6.80029296875,
+      "motiv": "EMA CROSSOVER BULLISH (-0.32%)",
+      "ora": 19,
+      "data": "2026-05-18T19:30:41.419149"
+    },
+    {
+      "simbol": "META",
+      "tip": "open_short",
+      "pret": 607.6099853515625,
+      "cantitate": 4,
+      "profit": null,
+      "motiv": null,
+      "ora": 19,
+      "data": "2026-05-18T19:30:51.348225"
+    },
+    {
+      "simbol": "MSFT",
+      "tip": "close_long",
+      "pret": 420.114990234375,
+      "cantitate": 5,
+      "profit": 7.07489013671875,
+      "motiv": "MACD BEARISH (0.32%)",
+      "ora": 19,
+      "data": "2026-05-18T19:35:57.740144"
+    },
+    {
+      "simbol": "META",
+      "tip": "close_short",
+      "pret": 609.4099731445312,
+      "cantitate": 4,
+      "profit": -7.199951171875,
+      "motiv": "EMA CROSSOVER BULLISH (0.30%)",
+      "ora": 19,
+      "data": "2026-05-18T19:35:59.374427"
+    },
+    {
+      "simbol": "META",
+      "tip": "open_short",
+      "pret": 609.1500244140625,
+      "cantitate": 4,
+      "profit": null,
+      "motiv": null,
+      "ora": 19,
+      "data": "2026-05-18T19:36:06.824704"
+    },
+    {
+      "simbol": "MSFT",
+      "tip": "open_long",
+      "pret": 420.0299987792969,
+      "cantitate": 5,
+      "profit": null,
+      "motiv": null,
+      "ora": 19,
+      "data": "2026-05-18T19:36:07.134106"
+    },
+    {
+      "simbol": "META",
+      "tip": "close_short",
+      "pret": 609.0,
+      "cantitate": 4,
+      "profit": 0.60009765625,
+      "motiv": "EMA CROSSOVER BULLISH (-0.01%)",
+      "ora": 19,
+      "data": "2026-05-18T19:41:12.099050"
+    },
+    {
+      "simbol": "MSFT",
+      "tip": "close_long",
+      "pret": 420.0700988769531,
+      "cantitate": 5,
+      "profit": 0.20050048828125,
+      "motiv": "MACD BEARISH (0.01%)",
+      "ora": 19,
+      "data": "2026-05-18T19:41:13.972548"
+    },
+    {
+      "simbol": "META",
+      "tip": "open_short",
+      "pret": 608.9650268554688,
+      "cantitate": 4,
+      "profit": null,
+      "motiv": null,
+      "ora": 19,
+      "data": "2026-05-18T19:41:20.971080"
+    },
+    {
+      "simbol": "MSFT",
+      "tip": "open_long",
+      "pret": 420.1000061035156,
+      "cantitate": 5,
+      "profit": null,
+      "motiv": null,
+      "ora": 19,
+      "data": "2026-05-18T19:41:21.372122"
+    },
+    {
+      "simbol": "META",
+      "tip": "close_short",
+      "pret": 607.8699951171875,
+      "cantitate": 4,
+      "profit": 4.380126953125,
+      "motiv": "EMA CROSSOVER BULLISH (-0.18%)",
+      "ora": 19,
+      "data": "2026-05-18T19:46:26.790437"
+    },
+    {
+      "simbol": "META",
+      "tip": "open_short",
+      "pret": 607.7949829101562,
+      "cantitate": 4,
+      "profit": null,
+      "motiv": null,
+      "ora": 19,
+      "data": "2026-05-18T19:46:34.363625"
+    },
+    {
+      "simbol": "MSFT",
+      "tip": "close_long",
+      "pret": 420.135009765625,
+      "cantitate": 5,
+      "profit": 0.175018310546875,
+      "motiv": "MACD BEARISH (0.01%)",
+      "ora": 19,
+      "data": "2026-05-18T19:51:40.844709"
+    },
+    {
+      "simbol": "META",
+      "tip": "close_short",
+      "pret": 609.3699951171875,
+      "cantitate": 4,
+      "profit": -6.300048828125,
+      "motiv": "EMA CROSSOVER BULLISH (0.26%)",
+      "ora": 19,
+      "data": "2026-05-18T19:51:42.493792"
+    },
+    {
+      "simbol": "META",
+      "tip": "open_short",
+      "pret": 609.2600708007812,
+      "cantitate": 4,
+      "profit": null,
+      "motiv": null,
+      "ora": 19,
+      "data": "2026-05-18T19:51:49.334627"
+    },
+    {
+      "simbol": "GOOGL",
+      "tip": "close_long",
+      "pret": 401.67999267578125,
+      "cantitate": 6,
+      "profit": 1.61993408203125,
+      "motiv": "MACD BEARISH (0.07%)",
+      "ora": 19,
+      "data": "2026-05-18T19:56:53.882874"
+    },
+    {
+      "simbol": "META",
+      "tip": "close_short",
+      "pret": 610.6599731445312,
+      "cantitate": 4,
+      "profit": -5.599609375,
+      "motiv": "EMA CROSSOVER BULLISH (0.19%)",
+      "ora": 19,
+      "data": "2026-05-18T19:56:55.522505"
+    },
+    {
+      "simbol": "GOOGL",
+      "tip": "open_long",
+      "pret": 402.1700134277344,
+      "cantitate": 6,
+      "profit": null,
+      "motiv": null,
+      "ora": 20,
+      "data": "2026-05-18T20:09:52.402615"
+    },
+    {
+      "simbol": "META",
+      "tip": "open_short",
+      "pret": 610.780029296875,
+      "cantitate": 4,
+      "profit": null,
+      "motiv": null,
+      "ora": 20,
+      "data": "2026-05-18T20:09:52.740405"
+    },
+    {
+      "simbol": "META",
+      "tip": "close_short",
+      "pret": 610.9349975585938,
+      "cantitate": 4,
+      "profit": -0.619873046875,
+      "motiv": "EMA CROSSOVER BULLISH (0.03%)",
+      "ora": 20,
+      "data": "2026-05-18T20:14:57.299432"
+    },
+    {
+      "simbol": "META",
+      "tip": "open_short",
+      "pret": 610.9299926757812,
+      "cantitate": 4,
+      "profit": null,
+      "motiv": null,
+      "ora": 20,
+      "data": "2026-05-18T20:15:04.345305"
+    },
+    {
+      "simbol": "META",
+      "tip": "close_short",
+      "pret": 612.5549926757812,
+      "cantitate": 4,
+      "profit": -6.5,
+      "motiv": "EMA CROSSOVER BULLISH (0.27%)",
+      "ora": 20,
+      "data": "2026-05-18T20:20:08.679467"
+    },
+    {
+      "simbol": "META",
+      "tip": "open_short",
+      "pret": 612.5557250976562,
+      "cantitate": 4,
+      "profit": null,
+      "motiv": null,
+      "ora": 20,
+      "data": "2026-05-18T20:20:16.488691"
+    },
+    {
+      "simbol": "META",
+      "tip": "close_short",
+      "pret": 612.8400268554688,
+      "cantitate": 4,
+      "profit": -1.13720703125,
+      "motiv": "EMA CROSSOVER BULLISH (0.05%)",
+      "ora": 20,
+      "data": "2026-05-18T20:25:22.114596"
+    },
+    {
+      "simbol": "META",
+      "tip": "open_short",
+      "pret": 612.9500122070312,
+      "cantitate": 4,
+      "profit": null,
+      "motiv": null,
+      "ora": 20,
+      "data": "2026-05-18T20:25:28.457000"
+    },
+    {
+      "simbol": "GOOGL",
+      "tip": "open_long",
+      "pret": 401.93499755859375,
+      "cantitate": 6,
+      "profit": null,
+      "motiv": null,
+      "ora": 20,
+      "data": "2026-05-18T20:29:12.513881"
+    },
+    {
+      "simbol": "META",
+      "tip": "open_short",
+      "pret": 613.0454711914062,
+      "cantitate": 4,
+      "profit": null,
+      "motiv": null,
+      "ora": 20,
+      "data": "2026-05-18T20:29:12.971943"
+    },
+    {
+      "simbol": "GOOGL",
+      "tip": "open_long",
+      "pret": 401.07000732421875,
+      "cantitate": 6,
+      "profit": null,
+      "motiv": null,
+      "ora": 20,
+      "data": "2026-05-18T20:34:41.339303"
+    },
+    {
+      "simbol": "GOOGL",
+      "tip": "close_long",
+      "pret": 401.3800048828125,
+      "cantitate": 6,
+      "profit": 1.8599853515625,
+      "motiv": "MACD BEARISH (0.08%)",
+      "ora": 20,
+      "data": "2026-05-18T20:44:53.705014"
+    },
+    {
+      "simbol": "GOOGL",
+      "tip": "open_long",
+      "pret": 401.42498779296875,
+      "cantitate": 6,
+      "profit": null,
+      "motiv": null,
+      "ora": 20,
+      "data": "2026-05-18T20:45:01.658007"
+    }
+  ],
+  "performanta": {
+    "META": {
+      "profit": -20.467529296875,
+      "trades": 13,
+      "wins": 4
+    },
+    "MSFT": {
+      "profit": 7.450408935546875,
+      "trades": 3,
+      "wins": 3
+    },
+    "GOOGL": {
+      "profit": 3.47991943359375,
+      "trades": 2,
+      "wins": 2
+    }
+  },
+  "stats": {
+    "total_profit": -9.537200927734375,
+    "wins": 9,
+    "losses": 9
+  }
+}
